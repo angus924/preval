@@ -3,7 +3,7 @@
 # Prevalidated ridge regression is a highly-efficient drop-in replacement
 # for logistic regression for high-dimensional data
 
-# https://arxiv.org/abs/
+# https://arxiv.org/abs/2401.15610
 
 import numpy as np
 from scipy.optimize import minimize
